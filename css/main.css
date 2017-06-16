@@ -159,7 +159,7 @@ body {
 .footer-container {
     font-family : "moon-bold";
     text-align: center;
-    margin-top:35px;
+    margin:35px 0px;
 }
 .footer-container h3 {
     color: #ED1E79;
